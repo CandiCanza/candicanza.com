@@ -7,12 +7,12 @@
 
 :root {
   --text-color: #333333;
-  --secondary-color: #2cb1bc;
-  --background: #ffffff;
-  --button-background: #14919b;
+  --secondary-color: #2155CD;
+  --background: #E8F9FD;
+  --button-background: #2155CD;
   --footer-background: #333333;
-  --card-title: #d9d5d4;
-  --background-resume-item: #f6f2f1;
+  --card-title: #2155CD;
+  --background-resume-item: #ffffff;
   --white: #ffffff;
   --logo: #000000;
   --navbar-shadow: hsla(228, 6%, 66%, 0.3);
@@ -23,7 +23,7 @@
 [data-theme="dark"] {
   --background: #222222;
   --text-color: #ffffff;
-  --footer-background: #14919b;
+  --footer-background: #6DD5FA;
   --background-resume-item: #303030;
   --card-title: #343434;
   --logo: #ffffff;
@@ -280,7 +280,6 @@ body {
 .about__socialContainer {
   position: absolute;
   right: 46px;
-  bottom: -60px;
 }
 
 .about__social {
